@@ -3,9 +3,9 @@ serverless平台后端
 
 ## 快速上手
 ``` bash
-git clone https://github.com/wuhan2020/api-server
-cd api-server
-git clone https://github.com/wuhan2020/wuhan2020
+git clone https://github.com/JGX020/pythonserverless
+cd pythoinserverless
+git clone https://github.com/JGX020/pythonserverless
 pip install -r requirements.txt
 bash bootstrap
 ```
