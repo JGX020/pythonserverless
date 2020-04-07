@@ -9,7 +9,7 @@ git clone https://github.com/JGX020/pythonserverless
 pip install -r requirements.txt
 bash bootstrap
 ```
-然后就可以在`http://your-ip:9000/wuhan2020/`调试api
+然后就可以在`http://your-ip:5000/wuhan2020/`调试api
 ## 项目文件说明
 
 ```
