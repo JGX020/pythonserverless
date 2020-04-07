@@ -1,5 +1,5 @@
-# wuhan2020-api-server
-武汉新型冠状病毒防疫信息收集平台后端
+# api-server
+serverless平台后端
 
 ## 快速上手
 ``` bash
@@ -50,4 +50,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(port))
 ```
 ## 前端项目issues
-https://github.com/wuhan2020/front-pages/issues
+
